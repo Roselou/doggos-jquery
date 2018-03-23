@@ -1,0 +1,12 @@
+h1 {
+	color: #9988DE;
+}
+
+img {
+	max-width: 400px;
+	height: 200px;
+}
+
+div{
+	display: flex;
+}
